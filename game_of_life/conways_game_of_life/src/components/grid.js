@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from 'react';
+import React, { useState, useCallback, useRef } from 'react';
 import produce from 'immer';
 import { patterns } from '../patterns/patterns.js';
 import styled from 'styled-components';

@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import produce from 'immer';
 import styled from 'styled-components';
 import Grid from './components/grid';
 
