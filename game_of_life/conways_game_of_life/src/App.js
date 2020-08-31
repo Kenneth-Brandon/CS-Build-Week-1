@@ -54,7 +54,7 @@ function App() {
   return (
     <Container>
       <div className="topDiv">
-        <h1>Brandons Game of Life</h1>
+        <h1>Conway's Game of Life</h1>
       </div>
       <div className="content">
         <div className="instructions">
